@@ -7,17 +7,25 @@ I started by splitting a raw dataset into training and testing sets. Then I crea
 Results
 
 Classification Report
+
               precision    recall  f1-score   support
 
      Healthy       1.00      0.99      1.00     18765
+     
    High-Risk       0.85      0.91      0.88       619
+   
     accuracy                           0.99     19384
 
     -The precision score for predicting healthy loans was 100%
+    
     -The precision score for predicting high risk loans was 85%
+    
     -The recall score for healthy loans was 99%
+    
     -The recall score for high risk loans was 91%
+    
     -The overall accuracy for the model in predicting both healthy and high risk loans was 99%
+    
 
 Summary
 
