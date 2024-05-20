@@ -20,4 +20,5 @@ Classification Report
     -The overall accuracy for the model in predicting both healthy and high risk loans was 99%
 
 Summary
+
 While the model performs at a high success rate, it is important to note the difference between healthy loan predicitons (100%) and high risk (85%). The model seems to favor predicting borderline loans as healthy when perhaps it should err on the side of caution. Missing 15% of high risk loans could result in unforseen default liabilities to the lender. I would like to see this model perform more conservatively before recommending it be used or relied upon by the company. 
