@@ -8,14 +8,6 @@ Results
 
 Classification Report
 
-              precision    recall  f1-score   support
-
-     Healthy       1.00      0.99      1.00     18765
-     
-   High-Risk       0.85      0.91      0.88       619
-   
-    accuracy                           0.99     19384
-
     -The precision score for predicting healthy loans was 100%
     
     -The precision score for predicting high risk loans was 85%
